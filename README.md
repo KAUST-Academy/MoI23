@@ -1,2 +1,2 @@
-# LMHSummerSchool2021
-Project for LMH summer school 2021
+# MoI Training
+Project for MoI Training 2023
